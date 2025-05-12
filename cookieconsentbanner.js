@@ -41,10 +41,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function enableCookies() {
-        // Jeśli masz skrypty cookies, załaduj je tutaj dynamicznie np. Google Analytics
-        // np. const script = document.createElement('script');
-        // script.src = 'https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXX';
-        // document.head.appendChild(script);
+        // Tutaj można dodać kod do aktywacji cookies
+        // np. załadować skrypty analityczne, które używają cookies
+        // lub ustawić cookies, które są wymagane do działania strony
     }
 
     function disableCookies() {
