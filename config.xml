@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>cookieconsentbanner</name>
+  <displayName>Cookie Consent Banner</displayName>
+  <version>1.0.0</version>
+  <author>whatkindofmilkuare</author>
+  <tab>front_office_features</tab>
+  <description>Displays cookie consent banner and controls cookie behavior</description>
+  <psVersion min="8.0.0" max="8.2.0"/>
+</module>
